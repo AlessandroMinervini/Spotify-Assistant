@@ -18,10 +18,10 @@ class Rec_Thread(QThread):
         super().__init__()
         self.active = False
         self.name = 'Alessandro'
-        self.username = '1166734650'
-        self.client_id = '0cda611f9fce4934b3f3c3cda8ff5aed'
-        self.client_secret = '145e5f6f56794a5aa224625c4f86341d'
-        self.redirect_uri = 'https://www.google.it/'
+        self.username = 'xxxxxxxxxxxx'
+        self.client_id = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+        self.client_secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+        self.redirect_uri = 'url to redirect'
         self.scope = 'user-modify-playback-state user-library-read user-read-playback-state'
         self.open_cmd = ''
         self.lang = 'en'
