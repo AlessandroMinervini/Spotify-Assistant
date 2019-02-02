@@ -44,10 +44,13 @@ The interaction with the assistant is through two step:
 | Software  | Version | Required|
 | ------------- | ------------- |  ------------- |
 | Python | >= 3.5  | Yes    |
-| Numpy  | Tested on 1.13 |    Yes     |
-| Scipy  | >= 1.0  | Yes   |
+| Face recognition | Tested on 1.2.3 |    Yes     |
+| gTTS  | Tested on 2.0.3 | Yes   |
 | PyQt5 | >= 5.9.1  | Yes
 | qdarkstyle  | >= 2.6.5  |Optional |
+| Speech recognition | tested on 3.8.1  | Yes    |
+| Playsound | Tested on 1.2.2 | Yes    |
+| OpenCV-python | Tested on 4.0.0.21 | Yes    |
 
 
 
