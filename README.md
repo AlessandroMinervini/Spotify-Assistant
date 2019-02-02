@@ -48,11 +48,15 @@ The interaction with the assistant is through two step:
 | gTTS  | Tested on 2.0.3 | Yes   |
 | PyQt5 | >= 5.9.1  | Yes
 | qdarkstyle  | >= 2.6.5  |Optional |
-| Speech recognition | tested on 3.8.1  | Yes    |
+| Speech recognition | Tested on 3.8.1  | Yes    |
 | Playsound | Tested on 1.2.2 | Yes    |
 | OpenCV-python | Tested on 4.0.0.21 | Yes    |
 
+### To run
 
+```
+$ python3 MainGui.py
+```
 
 
 
