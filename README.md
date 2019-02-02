@@ -18,6 +18,12 @@ The interaction with the assistant is through two step:
   <img width="400" height="220" src="https://github.com/AlessandroMinervini/Spotify-Assistant/blob/master/imagestoreadme/speechflow.jpg">
 </p>
 
+### Example of interaction between user and the assistant
+
+<p align="center">
+  <img width="400" height="220" src="https://github.com/AlessandroMinervini/Spotify-Assistant/blob/master/imagestoreadme/flow.jpg">
+</p>
+
 
 ## Commands available
 
