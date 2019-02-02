@@ -15,7 +15,7 @@ The interaction with the assistant is through two step:
 - The waiting for the command requested from user
 
 <p align="center">
-  <img width="400" height="210" src="https://github.com/AlessandroMinervini/Spotify-Assistant/blob/master/imagestoreadme/speechflow.jpg">
+  <img width="400" height="220" src="https://github.com/AlessandroMinervini/Spotify-Assistant/blob/master/imagestoreadme/speechflow.jpg">
 </p>
 
 
