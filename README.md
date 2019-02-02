@@ -24,8 +24,17 @@ The interaction with the assistant is through two step:
   <img width="400" height="350" src="https://github.com/AlessandroMinervini/Spotify-Assistant/blob/master/imagestoreadme/flow.png">
 </p>
 
-
 ## Commands available
+
+- Start
+- Stop/pause
+- Next track
+- Previous track
+- Repeat track/all/off
+- Shuffle on/off
+- Down/up volume
+- Play track / artist / playlist / mood / saved tracks
+- Switch language, english/italian
 
 
 
