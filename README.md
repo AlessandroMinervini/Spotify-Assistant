@@ -15,7 +15,7 @@ The interaction with the assistant is through two step:
 - The waiting for the command requested from user
 
 <p align="center">
-  <img width="300" height="195" src="https://github.com/AlessandroMinervini/Conway-s-Game-of-Life/blob/master/imagestoreadme/speechflow.jpg">
+  <img width="300" height="195" src="https://github.com/AlessandroMinervini/Spotify-Assistant/blob/master/imagestoreadme/speechflow.jpg">
 </p>
 
 
