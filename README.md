@@ -36,6 +36,20 @@ The interaction with the assistant is through two step:
 - Play track / artist / playlist / mood / saved tracks
 - Switch language, english/italian
 
+## Now launch the assistant!
+
+### Requirements
+
+
+| Software  | Version | Required|
+| ------------- | ------------- |  ------------- |
+| Python | >= 3.5  | Yes    |
+| Numpy  | Tested on 1.13 |    Yes     |
+| Scipy  | >= 1.0  | Yes   |
+| PyQt5 | >= 5.9.1  | Yes
+| qdarkstyle  | >= 2.6.5  |Optional |
+
+
 
 
 
