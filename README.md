@@ -21,7 +21,7 @@ The interaction with the assistant is through two step:
 ### Example of interaction between user and the assistant
 
 <p align="center">
-  <img width="400" height="700" src="https://github.com/AlessandroMinervini/Spotify-Assistant/blob/master/imagestoreadme/flow.png">
+  <img width="400" height="600" src="https://github.com/AlessandroMinervini/Spotify-Assistant/blob/master/imagestoreadme/flow.png">
 </p>
 
 
